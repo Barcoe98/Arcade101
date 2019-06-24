@@ -1,0 +1,9 @@
+<object-stream>
+  <list>
+    <Players.ArcadePlayer>
+      <playerId>8979</playerId>
+      <playerName>mick</playerName>
+      <score>0.0</score>
+    </Players.ArcadePlayer>
+  </list>
+</object-stream>
